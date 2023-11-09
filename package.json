@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
     "bin": {
-    "echoo": "./bin/echo.js"
+    "echoo": "./bin/echo.py"
     },
   "author": "",
   "license": "ISC"
